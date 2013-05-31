@@ -11,7 +11,7 @@ import glob  # search for file
 import csv #cvs file
 
 
-# define local directory
+# define local directory. This should be changed to relative paths.
 dir_data = 'N:/Documents/Financien/Vodafone kosten/datagebruik'
 dir_spraak = 'N:/Documents/Financien/Vodafone kosten/spraak'
 
