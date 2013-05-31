@@ -1,6 +1,8 @@
 '''
 Created on May 31, 2013
 
+Simple csv file analyzer from the dutch vodafone website.
+
 @author: nlaurens
 '''
 
