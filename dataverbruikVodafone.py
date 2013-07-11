@@ -15,8 +15,6 @@ import csv #cvs file
 dir_data = 'N:/Documents/Financien/Vodafone kosten/datagebruik'
 dir_spraak = 'N:/Documents/Financien/Vodafone kosten/spraak'
 
-
-
 maandDic ={} #make a dictionary so we can have str indices
 
 #datagebruik
